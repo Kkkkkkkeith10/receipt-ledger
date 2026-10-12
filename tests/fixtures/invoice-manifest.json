@@ -1,0 +1,74 @@
+[
+  {
+    "filename": "officeworks-supplies.pdf",
+    "expected": {
+      "vendor": "Officeworks",
+      "abn": "36004763526",
+      "date": "2025-01-03",
+      "category": "office_supplies",
+      "amount": 103.25,
+      "gstAmount": 9.39,
+      "paymentMethod": "EFTPOS"
+    }
+  },
+  {
+    "filename": "bunnings-materials.pdf",
+    "expected": {
+      "vendor": "Bunnings Warehouse",
+      "abn": "18004278352",
+      "date": "2025-01-05",
+      "category": "project_materials",
+      "amount": 281.45,
+      "gstAmount": 25.59,
+      "paymentMethod": "Company Card"
+    }
+  },
+  {
+    "filename": "caltex-fuel.pdf",
+    "expected": {
+      "vendor": "Caltex Star Mart",
+      "abn": "73004085616",
+      "date": "2025-01-06",
+      "category": "fuel_vehicle",
+      "amount": 121.03,
+      "gstAmount": 11,
+      "paymentMethod": "Company Card"
+    }
+  },
+  {
+    "filename": "thai-restaurant-lunch.pdf",
+    "expected": {
+      "vendor": "Thai Garden Restaurant",
+      "abn": "45123456789",
+      "date": "2025-01-07",
+      "category": "food_beverage",
+      "amount": 111.5,
+      "gstAmount": 10.14,
+      "paymentMethod": "Credit Card"
+    }
+  },
+  {
+    "filename": "aws-subscription.pdf",
+    "expected": {
+      "vendor": "Amazon Web Services",
+      "abn": "64600643094",
+      "date": "2025-01-01",
+      "category": "subscriptions",
+      "amount": 66.4,
+      "gstAmount": 6.04,
+      "paymentMethod": "Direct Debit"
+    }
+  },
+  {
+    "filename": "qantas-flight.pdf",
+    "expected": {
+      "vendor": "Qantas Airways",
+      "abn": "16009661901",
+      "date": "2024-12-28",
+      "category": "travel",
+      "amount": 280,
+      "gstAmount": 25.45,
+      "paymentMethod": "Credit Card"
+    }
+  }
+]
